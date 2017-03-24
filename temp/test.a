@@ -1,0 +1,4 @@
+where True{
+	printf("hello world");
+	return 0;
+}
